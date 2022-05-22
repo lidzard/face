@@ -1,0 +1,46 @@
+body
+{
+    background:linear-gradient(#1e3771 30%, #02091e 100%);
+}
+h4
+{
+    color:#46491c;
+}
+h1
+{
+    background-color:rgb(104, 111, 150);
+    color:black;
+    font-family:beans;
+}
+#subheading
+{
+    color: black;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+#camera,#result
+{
+    width:350;
+    height:300;
+    border:3px rgb(8, 21, 8) double;
+
+}
+#cpature
+{
+background-color: #0c2265;
+color: #02091e;
+}
+#identify
+{
+    background-color: #1e3771;
+    color: #02091e;
+}
+#image
+{
+    float: right;
+    
+}
+#arrow
+{
+    height: 200px;
+    width: 300px;
+}
